@@ -1,0 +1,14 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is a simple weather app using weather data api(https://www.visualcrossing.com/weather-api)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamad",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
